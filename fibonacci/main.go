@@ -8,7 +8,7 @@ package main
 import "fmt"
 
 func main() {
-	n := 6
+	n := 7
 	fib := fibonacci(n)
 	fmt.Printf("The %dth Fibonacci number is: %d\n", n, fib)
 }
